@@ -1,0 +1,10 @@
+.infobar{
+  position:fixed;
+  right:20%;
+  left:2%;
+  bottom:2%;
+  height:20%;
+  border-style:solid;
+  border-color:maroon;
+  background-image: url("../pictures/oldPaper2.jpg");
+}

@@ -1,0 +1,33 @@
+.listContainer{
+  background-image: url("../pictures/oldPaper2.jpg");
+  width:10%;
+}
+
+.listContainer{
+  position:fixed;
+  left:40%;
+  width:20%;
+  height:100%;
+  text-align: center;
+  border-style:solid;
+  border-color:brown;
+}
+
+.listContainer::after {
+  content: "";
+  opacity: 0.6;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  background-color: silver;
+  z-index: -1;
+}
+
+.BuilderTitle{
+  width:98.5%;
+  border-style:solid;
+  border-color:gold;
+  background-color:lightblue;
+}

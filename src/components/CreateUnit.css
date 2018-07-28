@@ -1,0 +1,44 @@
+.form{
+  position:fixed;
+  left:40%;
+  width:20%;
+  /* background-image: url("../pictures/oldPaper2.jpg"); */
+  /* padding:10px; */
+  height:100%;
+  text-align:center;
+  border-style:solid;
+  border-color:brown;
+}
+
+.form::after {
+  content: "";
+  opacity: 0.6;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  background-color: silver;
+  z-index: -1;
+}
+
+.small{
+  width:20px;
+  display:inline;
+}
+
+.formContainer{
+  position:fixed;
+  background-image: url("../pictures/oldPaper2.jpg");
+  height:100%;
+  width:100%;
+  background-repeat:no-repeat;;
+  background-size:100%;
+}
+
+.FormTitle{
+  width:98.5%;
+  border-style:solid;
+  border-color:gold;
+  background-color:lightblue;
+}
