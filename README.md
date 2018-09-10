@@ -1,4 +1,4 @@
-Demo Link: https://www.youtube.com/watch?v=BmdE-RIJ7xI
+Demo Link: https://www.youtube.com/watch?v=BmdE-RIJ7xI <br>
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
