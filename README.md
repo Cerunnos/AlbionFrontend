@@ -1,4 +1,4 @@
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Demo](https://img.youtube.com/vi/https://youtu.be/BmdE-RIJ7xI/0.jpg)](https://www.youtube.com/watch?v=VID)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
