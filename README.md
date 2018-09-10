@@ -1,5 +1,4 @@
-[![Demo](https://img.youtube.com/vi/https://youtu.be/BmdE-RIJ7xI/0.jpg)](https://www.youtube.com/watch?v=VID)
-
+Demo Link: https://www.youtube.com/watch?v=BmdE-RIJ7xI
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
